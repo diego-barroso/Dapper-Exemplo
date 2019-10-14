@@ -1,0 +1,45 @@
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\XPTO.Core\bin\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\XPTO.Core\bin\Debug\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\XPTO.Core\obj\Debug\XPTO.Core.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\XPTO.Core\obj\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\XPTO.Core\obj\Debug\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Core\bin\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Core\bin\Debug\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Core\obj\Debug\XPTO.Core.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Core\obj\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Core\obj\Debug\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Core\bin\Debug\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Core\bin\Debug\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Core\obj\Debug\XPTO.Core.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Core\bin\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Core\bin\Debug\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Core\bin\Debug\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Core\bin\Debug\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Core\obj\Debug\XPTO.Core.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Core\obj\Debug\XPTO.Core.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Core\obj\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Core\obj\Debug\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Core\bin\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Core\bin\Debug\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Core\bin\Debug\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Core\bin\Debug\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Core\obj\Debug\XPTO.Core.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Core\obj\Debug\XPTO.Core.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Core\obj\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Core\obj\Debug\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Core\bin\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Core\bin\Debug\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Core\bin\Debug\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Core\bin\Debug\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Core\obj\Debug\XPTO.Core.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Core\obj\Debug\XPTO.Core.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Core\obj\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Core\obj\Debug\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Core\bin\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Core\bin\Debug\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Core\bin\Debug\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Core\bin\Debug\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Core\obj\Debug\XPTO.Core.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Core\obj\Debug\XPTO.Core.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Core\obj\Debug\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Core\obj\Debug\XPTO.Core.pdb

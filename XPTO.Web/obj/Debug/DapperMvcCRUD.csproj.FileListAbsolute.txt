@@ -1,0 +1,42 @@
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\DapperMvcCRUD.dll.config
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\DapperMvcCRUD.dll
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\DapperMvcCRUD.pdb
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\Dapper.dll
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Helpers.dll
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Mvc.dll
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Razor.dll
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Deployment.dll
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.dll
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Razor.dll
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\Dapper.xml
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Razor.xml
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.xml
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Deployment.xml
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Razor.xml
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Helpers.xml
+F:\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Mvc.xml
+F:\DapperMvcCRUD\DapperMvcCRUD\obj\Debug\DapperMvcCRUD.csprojResolveAssemblyReference.cache
+F:\DapperMvcCRUD\DapperMvcCRUD\obj\Debug\DapperMvcCRUD.dll
+F:\DapperMvcCRUD\DapperMvcCRUD\obj\Debug\DapperMvcCRUD.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\DapperMvcCRUD.dll.config
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\DapperMvcCRUD.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\DapperMvcCRUD.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Helpers.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Mvc.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Helpers.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Mvc.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\obj\Debug\DapperMvcCRUD.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\obj\Debug\DapperMvcCRUD.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\obj\Debug\DapperMvcCRUD.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\obj\Debug\DapperMvcCRUD.pdb

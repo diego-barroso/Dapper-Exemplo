@@ -1,0 +1,147 @@
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\DapperMvcCRUD.dll.config
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\DapperMvcCRUD.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\DapperMvcCRUD.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Helpers.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Mvc.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Helpers.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\bin\System.Web.Mvc.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\obj\Debug\XPTO.Web.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\obj\Debug\XPTO.Web.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\obj\Debug\DapperMvcCRUD.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC2\MVC Dapper CRUD\DapperMvcCRUD\DapperMvcCRUD\obj\Debug\DapperMvcCRUD.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\DapperMvcCRUD.dll.config
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\DapperMvcCRUD.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\DapperMvcCRUD.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Helpers.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Mvc.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Webpages.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Webpages.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Helpers.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\System.Web.Mvc.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\obj\Debug\XPTO.Web.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\obj\Debug\XPTO.Web.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\obj\Debug\DapperMvcCRUD.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\obj\Debug\DapperMvcCRUD.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC4 - Versão Alterada\XPTO.Web\bin\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\XPTO.Web.dll.config
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\XPTO.Web.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\XPTO.Web.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Helpers.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Mvc.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Webpages.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Webpages.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Helpers.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\bin\System.Web.Mvc.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\obj\Debug\XPTO.Web.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\obj\Debug\XPTO.Web.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC7\XPTO.Web\obj\Debug\XPTO.Web.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\XPTO.Web.dll.config
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\XPTO.Web.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\XPTO.Web.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.ValueTuple.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Helpers.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Mvc.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Webpages.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.ValueTuple.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Webpages.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Helpers.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\bin\System.Web.Mvc.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\obj\Debug\XPTO.Web.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\obj\Debug\XPTO.Web.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\obj\Debug\XPTO.Web.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC8\XPTO.Web\obj\Debug\XPTO.Web.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\XPTO.Web.dll.config
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\XPTO.Web.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\XPTO.Web.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.ValueTuple.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Helpers.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Mvc.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Webpages.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.ValueTuple.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Webpages.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Helpers.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\bin\System.Web.Mvc.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\obj\Debug\XPTO.Web.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\obj\Debug\XPTO.Web.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\obj\Debug\XPTO.Web.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC10\XPTO.Web\obj\Debug\XPTO.Web.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\XPTO.Web.dll.config
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\XPTO.Web.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\XPTO.Web.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\Dapper.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.ValueTuple.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Helpers.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Mvc.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Webpages.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\XPTO.Core.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\XPTO.Core.pdb
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\Dapper.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.ValueTuple.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Webpages.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Helpers.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\bin\System.Web.Mvc.xml
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\obj\Debug\XPTO.Web.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\obj\Debug\XPTO.Web.csproj.CopyComplete
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\obj\Debug\XPTO.Web.dll
+C:\Users\diego\Desktop\PROVA-FIAP\POC11\XPTO.Web\obj\Debug\XPTO.Web.pdb

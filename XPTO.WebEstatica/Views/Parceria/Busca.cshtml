@@ -1,0 +1,17 @@
+﻿@model XPTO.WebEstatica.Models.ViewModels.ParceriaViewModel
+
+@{
+    ViewBag.Title = "Parceria busca";
+}
+
+<h1>Busca</h1>
+
+@using (Html.BeginForm("Listagem", "Parceria"))
+{
+<div class="form-group">
+    <div class="col-md-offset-2 col-md-12">
+        <input class="form-control input-sm" value="" type="text" name="termoBusca" id="termoBusca" />
+        <input type="submit" value="Buscar" class="btn btn-default" />
+    </div>
+</div>
+}

@@ -1,0 +1,69 @@
+﻿@model IEnumerable<XPTO.Web.Models.ViewModels.ParceriaViewModel>
+
+@{
+    ViewBag.Title = "XPTO - Controle de parcerias";
+}
+
+<h1>Listagem</h1>
+
+<p>
+    @Html.ActionLink("Cadastrar", "Cadastrar")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Empresa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataInicio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataTermino)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QtdLikes)
+        </th>
+        <th>Ações</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Codigo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Empresa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataInicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataTermino)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QtdLikes)
+            </td>
+            <td>
+                @if (item.PermissoesParceria.Editar)
+                {
+                    @Html.ActionLink("Editar", "Editar", new { id = item.Codigo })
+                }
+                |
+                @if (item.PermissoesParceria.Remover)
+                {
+                    @Html.ActionLink("Remover", "Remover", new { id = item.Codigo })
+                }
+            </td>
+        </tr>
+    }
+</table>
